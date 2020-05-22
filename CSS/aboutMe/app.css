@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	border: 1px solid black;
+}
+
+li {
+	color: blue;
+}
+
+h4 {
+	color: green;
+}
+
+body {
+	/*background-color: yellow;*/
+	background: url(https://kvaes.files.wordpress.com/2013/06/green_field_wallpaper-wide.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
